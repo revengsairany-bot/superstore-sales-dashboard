@@ -3,7 +3,7 @@
 Interactive Tableau dashboard analyzing sales and profit performance across product categories and global regions.
 
 ## 🔗 Live Dashboard
-[View Dashboard](PASTE_YOUR_TABLEAU_LINK_HERE)
+[View Dashboard](https://public.tableau.com/app/profile/reveng.sairany/viz/SuperstoreSalesDashboard_17741221899430/Dashboard1)
 
 ## 📌 Key Insights
 - Technology generated the highest sales (~$757K)

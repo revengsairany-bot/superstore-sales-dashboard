@@ -24,7 +24,7 @@ The goal was to transform raw data into an interactive dashboard that supports d
 
 🔗 "View Interactive Dashboard" (https://public.tableau.com/app/profile/reveng.sairany/viz/SuperstoreSalesDashboard_17741221899430/Dashboard1)
 
-"Superstore Sales Dashboard" (superstore-sales-dashboard.png)
+![Superstore Sales Dashboard](superstore-sales-dashboard.png)
 
 ---
 

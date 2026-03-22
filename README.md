@@ -24,6 +24,10 @@ The goal was to transform raw data into an interactive dashboard that supports d
 
 🔗 "View Interactive Dashboard" (https://public.tableau.com/app/profile/reveng.sairany/viz/SuperstoreSalesDashboard_17741221899430/Dashboard1)
 
+📊 Dashboard Preview
+
+Below is a preview of the interactive Tableau dashboard:
+
 ![Superstore Sales Dashboard](superstore-sales-dashboard.png)
 
 ---
@@ -67,7 +71,7 @@ This dashboard enables stakeholders to:
 
 ---
 
-🚀 Next Steps (Future Improvements)
+🚀 Future Improvements
 
 - Add time-series analysis to track sales trends over time
 - Incorporate customer segmentation for deeper insights
